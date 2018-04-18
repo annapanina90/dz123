@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc1e07d0-340a-42b3-aa3f-b08f19aec4a0" name="Default" comment="calc + array">
-      <change afterPath="$PROJECT_DIR$/first_project.iml" afterDir="false" />
+    <list default="true" id="dc1e07d0-340a-42b3-aa3f-b08f19aec4a0" name="Default" comment="calc + array + выбор операции">
       <change afterPath="$PROJECT_DIR$/src/main/java/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Base.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,8 +32,8 @@
       <file leaf-file-name="Base.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Base.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+            <state relative-caret-position="238">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
                 <element signature="e#111#159#0" expanded="true" />
               </folding>
@@ -153,7 +149,7 @@
     <property name="ChangesTree.GroupingKeys" value="directory&#10;module" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -263,7 +259,7 @@
       <workItem from="1522399526753" duration="4828000" />
       <workItem from="1522432057164" duration="7606000" />
       <workItem from="1522508083416" duration="15471000" />
-      <workItem from="1523452239449" duration="39983000" />
+      <workItem from="1523452239449" duration="42630000" />
     </task>
     <task id="LOCAL-00001" summary="calc">
       <created>1522400030296</created>
@@ -293,11 +289,46 @@
       <option name="project" value="LOCAL" />
       <updated>1522405651161</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="calc + array">
+      <created>1523866275767</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1523866275767</updated>
+    </task>
+    <task id="LOCAL-00006" summary="calc + array + выбор операции">
+      <created>1523873654569</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1523873654569</updated>
+    </task>
+    <task id="LOCAL-00007" summary="calc + array + выбор операции">
+      <created>1523873706396</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1523873706396</updated>
+    </task>
+    <task id="LOCAL-00008" summary="calc + array + выбор операции">
+      <created>1523873784020</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1523873784020</updated>
+    </task>
+    <task id="LOCAL-00009" summary="calc + array + выбор операции">
+      <created>1523874001858</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1523874001858</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76516000" />
+    <option name="totallyTimeSpent" value="79163000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -310,23 +341,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.20121029" weight="0.29623288" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.19667171" weight="0.29623288" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.6739788" side_tool="true" visible="true" weight="0.3270548" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.3237519" side_tool="true" visible="true" weight="0.3270548" />
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.21860817" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49394855" weight="0.32935154" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.3260212" visible="true" weight="0.3270548" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49319214" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.67624813" weight="0.3270548" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49621785" weight="0.32876712" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1354009" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1354009" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49621785" weight="0.32876712" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -377,7 +407,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="calc" />
     <MESSAGE value="calc + array" />
-    <option name="LAST_COMMIT_MESSAGE" value="calc + array" />
+    <MESSAGE value="calc + array + выбор операции" />
+    <option name="LAST_COMMIT_MESSAGE" value="calc + array + выбор операции" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -475,8 +506,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Base.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        <state relative-caret-position="238">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding>
             <element signature="e#111#159#0" expanded="true" />
           </folding>
